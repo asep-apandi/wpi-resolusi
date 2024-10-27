@@ -1,0 +1,4 @@
+WPI RESOLUSI:
+- Konsisten membuat konten 2 video perminggu
+- membuat platform untuk pengelolaan video
+- membuat forum diskusi
